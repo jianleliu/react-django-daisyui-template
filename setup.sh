@@ -15,6 +15,7 @@ nodeenv .jsvenv
 
 # Activate Node.js environment and install Node.js dependencies
 source .jsvenv/bin/activate
+cd frontend
 npm install
 
 # Optional: Display a message indicating setup is complete
