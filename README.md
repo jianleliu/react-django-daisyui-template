@@ -7,4 +7,4 @@
 1. Run setup.bat / setup.sh in the root directory for windows / linux respectively.
    - Only tested on windows 11.
 3. In the .pyvenv, run python manage.py runserver. Make sure it's in the backend directory.
-4. In the .jsvenv, run npm run start, make sure it's in the frontend directory.
+4. In the .jsvenv, run npm run start. Make sure it's in the frontend directory.
